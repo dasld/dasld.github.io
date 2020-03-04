@@ -1,5 +1,5 @@
 ---
-layout: aulas
+layout: default
 ---
 
 <article class="page">
@@ -9,8 +9,8 @@ layout: aulas
   </div>
   
   <!-- div class="entry"> -->
-  {% for image in site.static_files %}
-    {% if image.path contains 'assets/files/redacao' %}
+  {% for p in page.path %}
+    {% if p.path contains 'assets/files/redacao' %}
         <p>
         <!-- {{image.path}} - {{image.modified_time}} -->
         <!-- <img src="{{site.baseurl}}{{image.path}}"> -->

@@ -9,6 +9,11 @@ permalink: /sobre/
 - Bacharel em Linguística, Universidade Estadual de Campinas (2016)
     - Monografia:
     [Aspectos semânticos e computacionais de resolução de pronomes E-type em um corpus histórico do português](http://www.bibliotecadigital.unicamp.br/document/?code=74301)
-- Mestrado em andamento em Filosofia (Lógica), Universidade Estadual de Campinas (2019)
+- Mestre em Filosofia, Universidade Estadual de Campinas (2020)
+    - Dissertação:
+    (a ser publicada)
+- Doutorando em Filosofia, Universidade Estadual de Campinas (ingresso em 2020)
 
-[Currículo Lattes](http://lattes.cnpq.br/7560668444401188)
+<p style="text-align:center;">
+  <a href="http://lattes.cnpq.br/7560668444401188">Currículo Lattes</a>
+</p>

@@ -2,15 +2,12 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
+# title of your site (displayed in the header)
+title: Daniel Alves da Silva Lopes Diniz
 name: Daniel Alves da Silva Lopes Diniz
-
-# Name of the author
 author: Daniel Alves da Silva Lopes Diniz
-
 # Short bio or description (displayed in the header)
-description: Mestrando em Filosofia da Universidade Estadual de Campinas (Unicamp)
-
+description: Doutorando em Filosofia da Universidade Estadual de Campinas (Unicamp)
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/avatar.png
 
@@ -21,7 +18,7 @@ avatar: /images/avatar.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: diniz.cpm@gmail.com
+  email: daniel_asl_diniz <at> protonmail.com
   facebook:
   flickr:
   github: dasld
@@ -44,7 +41,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-149688862-1
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Your website URL
 # Used for Sitemap.xml and your RSS feed
 url: http://dasld.github.io/
 enforce_ssl: https://dasld.github.io/
