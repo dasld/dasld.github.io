@@ -8,16 +8,14 @@ layout: aulas
     {{ content }}
   </div>
   
-  <!-- div class="entry"> -->
-  {% for image in site.static_files %}
-    {% if image.path contains 'assets/files/redacao' %}
-        <p>
-        <!-- {{image.path}} - {{image.modified_time}} -->
-        <!-- <img src="{{site.baseurl}}{{image.path}}"> -->
-        <a href="{{site.baseurl}}{{image.path}}">{{image.name}} - {{image.modified_time}}</a>
-        </p>
+  <ul>
+  {% for file in site.static_files %}
+    {% if file.path contains 'redacao' %}
+        <li>
+        <a href="{{site.baseurl}}{{file.path}}">{{file.name}}</a>
+        </li>
     {% endif %}
   {% endfor %}
-  <!-- </div> -->
+  </ul>
   
 </article>
