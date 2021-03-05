@@ -9,7 +9,7 @@ author: Daniel Alves da Silva Lopes Diniz
 # Short bio or description (displayed in the header)
 description: Doutorando em Filosofia da Universidade Estadual de Campinas (Unicamp)
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/avatar.png
+avatar: /images/danieldiniz.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: /images/avatar.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: daniel_asl_diniz <at> protonmail.com
+  email: daniel_asl_diniz<at>protonmail.com
   facebook:
   flickr:
   github: dasld
@@ -28,8 +28,8 @@ footer-links:
   pinterest:
   rss: rss
   twitter:
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  stackoverflow:
+  youtube: channel/UCZf-WKCWUwz02DXFW9fTAwQ
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
